@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Computers & Graphics":
+  color: "#ffdb77"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CVPR Workshop":
+  color: "#77ffea"
 
-"Vision":
-  color: "#009f36"
+"Displays":
+  color: "#8c77ff"
+
+"SIGGRAPH":
+  color: "#9aff77"
+
+"CVPR":
+  color: "#77ffea"
