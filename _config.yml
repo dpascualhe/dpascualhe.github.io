@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name:
 last_name: Pascual-Hernández
-email: d.pascualhe@urjc.es
+email: d.pascualhe@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student and Researcher @ URJC | AI | Computer Vision | Autonomous Driving
 footer_text: >
