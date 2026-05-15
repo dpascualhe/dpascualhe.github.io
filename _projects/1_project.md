@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Driving in Unstructured Environments (WIP)
+title: Perception for Autonomous Driving in Off-road Environments [WIP]
 description: PhD Thesis
 img: assets/img/phd.png
 importance: 1

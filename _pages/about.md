@@ -6,7 +6,7 @@ subtitle: <b>PhD Student and Researcher @ URJC | AI | Computer Vision | Autonomo
 
 profile:
   align: right
-  image: profile2.jpeg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -15,10 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! :wave: I'm a **computer vision researcher** dedicated to advancing **autonomous driving** :oncoming_automobile: in complex outdoor environments.
+Hi there! :wave: I'm a **computer vision researcher** dedicated to advancing **perception for autonomous driving** in off-road environments. :oncoming_automobile:
 
-Since the start of my career, I've been hands-on with every stage of vision-based system development :camera:, **from image capture to deployment**. My previous experience **leading a team** through challenging R&D projects has given me the opportunity to work at the intersection of AI :robot: and real-world applications.
+Throughout my career, I've been hands-on with every stage of vision-based system development, **from image capture to deployment** :camera:. This includes experience leading an R&D team at SEDDI, a startup specialized in textile material digitization, where I focused on bridging the gap between AI :robot: and real-world physical applications.
 
-Currently pursuing a **PhD** :student: and working as a researcher at **Rey Juan Carlos University**, I'm always on the lookout for new ways to create impactful technology.
+Currently, I am pursuing my **PhD** :student: and working as a researcher at **Rey Juan Carlos University**. My research focuses on perception for off-road autonomous driving, specializing in RGB, LiDAR, and fusion-based **semantic segmentation** for scene understanding in unstructured environments.
 
-Outside of work, you’ll often find me **exploring nature** :owl: or diving into the latest AI trends!
+Outside of the lab, you’ll often find me **birdwatching**! :owl:

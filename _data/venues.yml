@@ -1,4 +1,4 @@
-"Computers & Graphics":
+"CG":
   color: "#ffdb77"
 
 "CVPR Workshop":
@@ -12,3 +12,9 @@
 
 "CVPR":
   color: "#77ffea"
+
+"ESWA":
+  color: "#77d1ff"
+
+"WAF":
+  color: "#fc7f7f"

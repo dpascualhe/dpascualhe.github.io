@@ -7,7 +7,7 @@
         "email": "d.pascualhe@urjc.es",
         "phone": "",
         "url": "",
-        "summary": "I'm a computer vision researcher dedicated to advancing autonomous driving in complex outdoor environments. Since the start of my career, I've been hands-on with every stage of vision-based system development, from image capture to deployment. My experience leading a team through challenging R&D projects has given me the opportunity to work at the intersection of AI and real-world applications—an area that continually challenges and inspires me. Currently pursuing a PhD, I'm always on the lookout for new ways to create impactful technology. Outside of work, you’ll often find me exploring nature or diving into the latest AI trends!",
+        "summary": "Computer vision researcher dedicated to advancing perception for autonomous driving in off-road environments. Throughout my career, I've been hands-on with the entire vision system lifecycle, from image capture to deployment, including leading an R&D team at SEDDI to bridge the gap between AI and physical applications for textile materials digitization. Currently pursuing a PhD at Rey Juan Carlos University, my research focuses in RGB, LiDAR, and fusion-based semantic segmentation for scene understanding in unstructured environments. Outside of the lab, you’ll usually find me exploring nature!",
         "location": {
             "countryCode": "US",
             "address": "Spain"
@@ -23,11 +23,11 @@
     "work": [
         {
             "name": "Universidad Rey Juan Carlos",
-            "position": "Research Associate",
+            "position": "PhD Student and Research Associate",
             "startDate": "2024-10-31",
             "endDate": "",
             "highlights": [],
-            "summary": "Autonomous driving in unstructured environments.",
+            "summary": "Perception for autonomous driving, focusing on RGB, LiDAR, and fusion-based semantic segmentation for scene understanding in off-road environments.",
             "url": "https://www.linkedin.com/company/21522",
             "location": null
         },
@@ -157,6 +157,13 @@
         }
     ],
     "publications": [
+        {
+            "name": "Cross-dataset Evaluation of Visual Semantic Segmentation Models for Off-Road Autonomous Driving",
+            "publisher": "Expert Systems with Applications",
+            "releaseDate": "2026-05-07",
+            "summary": "Intelligent autonomous driving in off-road environments is an emerging field with great potential to impact areas such as agriculture, forestry, and rescue operations. Perception in these scenarios presents unique challenges due to the diversity of elements and weather conditions, along with the inherent ambiguity in class definitions. Consequently, off-road visual semantic segmentation datasets remain underdeveloped, roughly ten times smaller than their urban counterparts, hindering dependable performance assessment and potentially compromising the safety of autonomous systems. To address these challenges, we present a comprehensive cross-dataset evaluation of visual semantic segmentation models for autonomous off-road navigation. We propose a unified ontology that harmonizes class definitions across relevant datasets, enabling their combination for both training and testing. This approach ensures fair model comparisons and reliable assessment of generalization to unseen domains. We further benchmark models on the original datasets, analyze the impact of different ontology harmonization criteria and conversion strategies, and evaluate the trade-off between segmentation performance and computational cost. Results show that Transformer-based architectures achieve the most consistent segmentation performance across datasets. While often computationally demanding, some variants maintain real-time inference (≈12 ms) with top-tier accuracy. The unified ontology simplifies the segmentation task, yielding more reliable models and about 40% faster training convergence. Cross-dataset training further enhances generalization, improving mean IoU by up to +20% on RUGD and +13% on WildScenes compared to RELLIS-3D-only training. Overall, this study provides valuable insights for developing robust perception modules for off-road autonomous vehicles.",
+            "url": "https://doi.org/10.1016/j.eswa.2026.132656"
+        },
         {
             "name": "Efficient 3D human pose estimation from RGBD sensors",
             "publisher": "Displays",
