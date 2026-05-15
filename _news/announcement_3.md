@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:microphone: Representing [JdeRobot](https://jderobot.github.io/) at the [GSoC '25 Mentor Summit](https://sites.google.com/view/2025mentorsummit) in Munich, Germany.
+:microphone: Representing [JdeRobot](https://jderobot.github.io/) at the [GSoC 2025 Mentor Summit](https://sites.google.com/view/2025mentorsummit) in Munich, Germany.
